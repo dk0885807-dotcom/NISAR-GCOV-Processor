@@ -1,0 +1,3 @@
+# NISAR Processor does not require third-party Python packages.
+# Runtime dependencies are provided by QGIS/PyQGIS and its GDAL installation.
+# Recommended: GDAL >= 3.13 for native NISAR HDF5 support.

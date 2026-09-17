@@ -1,0 +1,18 @@
+[general]
+name=NISAR Processor
+qgisMinimumVersion=3.20
+qgisMaximumVersion=4.99
+description=QGIS toolbox for NISAR Level-2 GCOV product inspection, scientific raster extraction, visualization, quality layers, and analysis-ready raster export.
+version=1.0.0
+author=Deepak Kumar, Ashutosh Singh, Rahul Jayprakash
+email=dk0885807@gmail.com, ashutosh.singrour@gmail.com, ras.rahul28@gmail.com
+about=Work with NISAR Level-2 GCOV products: inspect datasets, validate dataset-level georeferencing, extract scientific rasters, export Float32 GeoTIFFs, visualize SAR data, and create dual-pol RGB composites. Source HDF5 values are preserved and the original product is never modified.
+category=Raster
+license=GPL-2.0-or-later
+icon=icon.png
+repository=https://github.com/dk0885807-dotcom/NISAR-GCOV-Processor
+tracker=https://github.com/dk0885807-dotcom/NISAR-GCOV-Processor/issues
+homepage=https://github.com/dk0885807-dotcom/NISAR-GCOV-Processor
+experimental=False
+deprecated=False
+tags=NISAR, HDF5,SAR,GCOV,remote sensing,raster,preprocessing
