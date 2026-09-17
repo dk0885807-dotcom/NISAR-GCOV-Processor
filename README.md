@@ -1,8 +1,8 @@
 # NISAR Processor
 
-**NISAR Processor** is a NISAR Level-2 GCOV product inspection, scientific raster extraction, visualization, and analysis-ready raster export toolbox for QGIS.
+**NISAR Processor** is a NISAR Level-2 GCOV product inspection, scientific raster extraction, visualization, and analysis-ready raster export toolbox for QGIS. GDAL 3.13 introduced NISAR-specific HDF5 support.
 
-It is designed for **NISAR Level-2 GCOV products** and is intentionally **product-aware**: it inspects the product structure and dataset-level georeferencing before producing outputs. The plugin does not modify the source NISAR HDF5 product and does not manually assign a CRS when the source metadata is invalid or unavailable.
+It is designed for **NISAR Level-2 GCOV products** and is intentionally **product-aware**: it inspects the product structure and dataset-level georeferencing before producing outputs. The plugin does not modify the source NISAR HDF5 product and does not manually assign a CRS when the source metadata is invalid or unavailable. 
 
 ## Version
 
