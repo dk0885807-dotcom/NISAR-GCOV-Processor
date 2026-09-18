@@ -391,6 +391,6 @@ See `LICENSE` for the full license text.
 ## Author
 
 **Deepak Kumar, Ashutosh Singh, Rahul Jayprakash
-Copyright © 2026 Deepak Kumar,** **Ashutosh Singh, Rahul Jayprakash Sharma**
+Copyright © 2026 Deepak Kumar
 
 
